@@ -205,8 +205,8 @@ const bigProjects = {
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Visit",
+          url: "https://github.com/Shubhp07/JobHub/tree/master"
         }
         //  you can add extra buttons here.
       ]
