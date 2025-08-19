@@ -12,7 +12,7 @@ export default function Footer() {
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
           {emoji("Made with ❤️ by Shubham  ")}
         </p>
-        <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
+        {/* <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
           Theme by{" "}
           <a
             href="https://github.com/saadpasta/developerFolio"
@@ -21,7 +21,7 @@ export default function Footer() {
           >
             developerFolio
           </a>
-        </p>
+        </p> */}
       </div>
     </Fade>
   );
